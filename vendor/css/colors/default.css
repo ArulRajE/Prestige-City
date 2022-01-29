@@ -1,4 +1,4 @@
-/* Template Color Default #FFA801 = rgba(255, 168, 1, */
+/* Template Color Default #999  = rgba(255, 168, 1, */
 
 /* TEXT COLOR */
 #minimal-bootstrap-carousel.slide .content h2,
@@ -41,7 +41,7 @@ ul li.active span,
 .twitter_feed ul li a,
 .btn-white,
 .text-thm {
-  color: #FFA801 !important;
+  color: #999  !important;
 }
 
 /* TEXT HOVER COLOR */
@@ -52,10 +52,10 @@ ul li.active span,
 .single-blog-style-one .text-box h3:hover,
 .single-why-choose-us:hover .text-box h3,
 .service_box:hover .title {
-	color: #FFA801 !important;
+	color: #999  !important;
 }
 nav.navbar.bootsnav.light-red li.dropdown ul.dropdown-menu > li > a:hover {
-	color: #FFA801;
+	color: #999 ;
 }
 
 /* BACKGROUND COLOR */
@@ -78,10 +78,10 @@ nav.navbar.bootsnav.light-red li.dropdown ul.dropdown-menu > li > a:hover {
 form.get-a-qoute .bootstrap-select .dropdown-menu > li.selected > a,
 .scroll-to-top,
 .bgc-thm {
-	background-color: #FFA801 !important;
+	background-color: #999  !important;
 }
 li.ui-timepicker-selected {
-	background-color: #FFA801;
+	background-color: #999 ;
 }
 
 /* HOVER BACKGROUND COLOR */.single-blog-style-one .pagination li.active a
@@ -92,10 +92,10 @@ li.ui-timepicker-selected {
 .site-footer .inner:before,
 .blog-details-page .single-blog-content .title-box .line:before,
 .team-style-one .team-box:after {
-	background-color: #FFA801 !important;
+	background-color: #999  !important;
 }
 .project-style-two .single-project-style-two .img-box .overlay .box .content > a:hover {
-	background-color: #FFA801;
+	background-color: #999 ;
 }
 .header-navigation ul.navigation-box > li > .sub-menu li:hover > a,
 .single-blog-style-one .img-box .overlay .box .content > a:hover,
@@ -107,7 +107,7 @@ form.get-a-qoute .bootstrap-select .dropdown-menu > li > a:hover,
 .project-style-one .single-project-style-one .img-box .overlay .box .content > a:hover,
 .testimonials-carousel.owl-theme .owl-dots .owl-dot.active span,
 .testimonials-carousel.owl-theme .owl-dots .owl-dot:hover span{
-	background-color: #FFA801;
+	background-color: #999 ;
 }
 
 /* BACKGROUND COLOR TRANSPARENT */
@@ -148,36 +148,36 @@ form.get-a-qoute .bootstrap-select .dropdown-menu > li > a:hover,
 
 /* BUTTON TEMPALTE COLOR */
 .btn-thm {
-  background-color: #FFA801;
-  border-color: #FFA801;
+  background-color: #999 ;
+  border-color: #999 ;
 }
 .btn-dark:hover,
 .btn-dark:active,
 .btn-dark:focus {
-  background-color: #FFA801;
+  background-color: #999 ;
 }
 .btn-yellow:hover,
 .btn-yellow:active,
 .btn-yellow:focus {
-  background-color: #FFA801;
+  background-color: #999 ;
 }
 .btn-white:hover,
 .btn-white:active,
 .btn-white:focus {
-  background-color: #FFA801 !important;
-  border-color: #FFA801 !important;
+  background-color: #999  !important;
+  border-color: #999  !important;
 }
 .btn-gray:hover,
 .btn-gray:active,
 .btn-gray:focus {
-  background-color: #FFA801 !important;
-  border-color: #FFA801 !important;
+  background-color: #999  !important;
+  border-color: #999  !important;
 }
 .btn-transparent:hover,
 .btn-transparent:active,
 .btn-transparent:focus {
-  background-color: #FFA801 !important;
-  border-color: #FFA801 !important;
+  background-color: #999  !important;
+  border-color: #999  !important;
 }
 /* BORDER TEMPALTE COLOR */
 .error-content .mailchimp_box button.form_control,
@@ -185,72 +185,72 @@ form.get-a-qoute .bootstrap-select .dropdown-menu > li > a:hover,
 .sidebar .siderbar-service-widget .list-group a.list-group-item:hover,
 .single-blog-style-one .pagination li.active a,
 .bdr-thm {
-	border: 1px solid #FFA801;
+	border: 1px solid #999 ;
 }
 .bdr2-thm {
-	border: 2px solid #FFA801;
+	border: 2px solid #999 ;
 }
 .bdr3-thm {
-	border: 3px solid #FFA801;
+	border: 3px solid #999 ;
 }
 .bdr4-thm {
-	border: 4px solid #FFA801;
+	border: 4px solid #999 ;
 }
 .bdr5-thm {
-	border: 5px solid #FFA801;
+	border: 5px solid #999 ;
 }
 .bdr6-thm {
-	border: 6px solid #FFA801;
+	border: 6px solid #999 ;
 }
 .bdr7-thm {
-	border: 7px solid #FFA801;
+	border: 7px solid #999 ;
 }
 .bdr8-thm {
-	border: 8px solid #FFA801;
+	border: 8px solid #999 ;
 }
 .bdr9-thm {
-	border: 9px solid #FFA801;
+	border: 9px solid #999 ;
 }
 .bdr10-thm {
-	border: 10px solid #FFA801;
+	border: 10px solid #999 ;
 }
 nav.navbar li.dropdown ul.dropdown-menu {
-	border-top: 5px solid #FFA801
+	border-top: 5px solid #999 
 }
 .ulockd-bb-solid-thm {
-    border-bottom: 1px solid #FFA801;
+    border-bottom: 1px solid #999 ;
 }
 .ulockd-bt-solid-thm {
-    border-top: 1px solid #FFA801;
+    border-top: 1px solid #999 ;
 }
 #custom_carousel .controls li.active {
-    border-top: 3px solid #FFA801;
+    border-top: 3px solid #999 ;
 }
 .ulockd-bb-dotted {
-	border-bottom: 1px dotted #FFA801;
+	border-bottom: 1px dotted #999 ;
 }
 .ulockd-bb2-dashed {
-	border-bottom: 2px dashed #FFA801;
+	border-bottom: 2px dashed #999 ;
 }
 .ulockd-bb2-dashed {
-	border-bottom: 2px dashed #FFA801;
+	border-bottom: 2px dashed #999 ;
 }
 .ulockd-bb-dashed {
-	border-bottom: 1px dashed #FFA801;
+	border-bottom: 1px dashed #999 ;
 }
 .ulockd-bb2-dashed {
-    border: 2px dashed #FFA801;
+    border: 2px dashed #999 ;
 }
 .testimonials-style-one .owl-theme .owl-dots .owl-dot.active span {
-	border-color:  #FFA801;
+	border-color:  #999 ;
 }
 /* Hover Border COlor */
 .icon_box:hover .icon i {
-    border: 1px solid #FFA801;
+    border: 1px solid #999 ;
 }
 .divider-box-tringle::before {
-	border-top: 255px solid #FFA801;
+	border-top: 255px solid #999 ;
 }
 .divider-box-tringle::after {
-	border-bottom: 255px solid #FFA801;
+	border-bottom: 255px solid #999 ;
 }
