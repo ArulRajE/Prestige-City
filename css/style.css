@@ -61,7 +61,8 @@ a:active {
       }}
   @media (max-width: 767px) {
     .thm-container {
-      max-width: 750px; } }
+      max-width: 750px; }
+     }
   @media (max-width: 570px) {
     .thm-container {
       max-width: 550px; } 
@@ -2555,7 +2556,10 @@ section {
     font-size: 17px; } }
 @media only screen and (max-width: 767px) {
   .service_box {
-    margin: 0 0 30px 0; } }
+    margin: 0 0 30px 0; }
+    .tab{
+      padding: 10px !important;
+    } }
 /************************** 
 * 11. blog styles 
 ***************************/
